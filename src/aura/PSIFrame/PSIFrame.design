@@ -1,0 +1,8 @@
+<design:component>
+	<design:attribute name="iframeUrl" label="The URL to iframe" />
+    <design:attribute name="width"  label="The width of the iframe" />
+    <design:attribute name="height"  label="The height of the iframe" />
+    <design:attribute name="scrolling"  label="Display scrollbars? (yes, no, or auto)" />
+    <design:attribute name="frameBorder"  label="Frame border (1 or 0)" />
+    <design:attribute name="style"  label="CSS styling" />
+</design:component>
