@@ -1,4 +1,6 @@
 # PSIFrame
+THIS SOFTWARE IS COVERED BY [THIS DISCLAIMER](https://raw.githubusercontent.com/thedges/Disclaimer/master/disclaimer.txt).
+
 Simple Lightning Component that provides iframe of some target URL/site.
 
 If a remote site or URL shows as blank, then it probably has ClickJack enabled that prevents it from being iframed.
